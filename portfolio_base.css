@@ -19,3 +19,11 @@ h1 {
     border: 5px solid orange; 
     width: 50%;
 }
+p {
+    text-align: center;
+}
+
+#bigbold {
+    font-weight: bold;
+    font-size: 200%;
+}
